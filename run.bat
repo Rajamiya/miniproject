@@ -1,0 +1,2 @@
+python Deepmodal.py
+pause
